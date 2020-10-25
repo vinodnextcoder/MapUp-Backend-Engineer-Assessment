@@ -1,5 +1,4 @@
 # Securing RESTful APIs with header API-Key
-# Securing RESTful APIs with header API-Key
 
 ## Create a simple Express-NodeJS API /intersections with the requirements given below.
 
